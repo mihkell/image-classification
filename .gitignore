@@ -1,3 +1,5 @@
 *
 !dlnd_image_classification.ipynb
 !.gitignore
+!problem_unittests.py
+!helper.py
